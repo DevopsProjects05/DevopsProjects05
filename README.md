@@ -13,7 +13,6 @@ Passionate about building scalable, reliable, and secure systems using cutting-e
 ### **DevOps Tools**
 <p>
   <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" title="Kubernetes" />
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" title="Jenkins" />
   <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" title="Terraform" />
