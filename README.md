@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Nuthan Gatla
+<h1 align="center">Hi there 👋, I'm Nuthan Gatla</h1>
+<h3  align="center"> 🚀 DevOps Engineer ☁️🔧 </h3>
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/nuthan-gatla/)
 [![GitHub](https://img.icons8.com/material-outlined/48/000000/github.png)](https://github.com/DevopsProjects05)
